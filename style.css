@@ -50,7 +50,7 @@ h2{
     margin-left: 150px;
 
 }
-#pic{
+.pic{
     height: 50px; 
     width: 50px;
     margin-left: 110px;
@@ -102,7 +102,7 @@ h2{
 .pic{
     height: 50px; 
     width: 50px;
-    margin-left:30px;
+    
 }
 .pi:hover{
     transform: scale(1.3);
