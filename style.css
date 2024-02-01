@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    background-color:rgb(8,27,41);
+    
+}
+
+.nav{
+    margin-left: 50%;
+    display: flex;
+    background-color: ;
+    
+}
+.A{
+    margin-right: 60px;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size:22px;
+    margin-top: 20px;
+    padding:5px;
+    font-weight: bold;
+}
+.A:hover{
+   
+    color: rgb(3, 195, 253);
+    box-shadow: 0px 0px 4px 2px rgb(3, 195, 253);
+    border-radius: 9%;
+}
+div{
+    color: aliceblue;
+    font-size: 19px;
+    margin-left: 20px;
+}
+h1{
+    color: aliceblue;
+    margin-top: 50px;
+    margin-left: 10px;
+    font-size: 3.5em;
+}
+h2{
+    color: aliceblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 2.3em;
+}
+.pro2{
+    color: rgb(6, 251, 112);
+    text-align:;
+    margin-bottom: 20px;
+    width:100px;
+    margin-left: 150px;
+
+}
+#pic{
+    height: 50px; 
+    width: 50px;
+    margin-left: 110px;
+    
+
+}
+.pic:hover{
+    transform: scale(1.3);
+
+    
+
+}
+
+.pi{
+    height: 50px; 
+    width: 50px;
+    margin-left: 40px;
+}
+.pro3{
+    color: rgb(6, 251, 112);
+    margin-bottom: 20px;
+}
+.abs{
+    position: absolute;
+    left: 600px;
+    top: 220px;
+}
+.abs2{
+    position: absolute;
+    left: 1200px;
+    top: 220px;
+}
+.pro1{
+    color: rgb(6, 251, 112);
+    margin-bottom: 20px;
+    width: 400px;
+    
+    
+}
+.pro1:hover{   
+    box-shadow: 0px 0px 4px 5px rgb(5, 249, 25);
+}
+.pro2:hover{
+    box-shadow: 0px 0px 4px 5px rgb(5, 249, 25);
+}
+.pro3:hover{
+    box-shadow: 0px 0px 4px 5px rgb(5, 249, 25);
+}
+.pic{
+    height: 50px; 
+    width: 50px;
+}
+.pi:hover{
+    transform: scale(1.3);
+}
+
+
+
